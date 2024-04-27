@@ -1,0 +1,7 @@
+yarn install
+yarn lint
+yarn build
+yarn copyplugin ### Which will place your distribute-able package inside the %appdata%/vortex/plugins folder
+yarn bundle7z
+
+### <https://nexus-mods.github.io/vortex-api/>
